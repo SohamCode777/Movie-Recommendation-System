@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.vscode
+cosine_similarity.py
+Movies_Data.csv
+movies_metadata.csv
+tmdb_5000_credits.csv
